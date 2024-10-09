@@ -1,0 +1,6 @@
+name: 'Saplings'
+description: 'Modern Drupal starter recipe.'
+type: 'Site'
+recipes:
+  - ddr_security_password_policy
+  - ddr_security_email_notifications_email_changed
