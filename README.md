@@ -1,4 +1,4 @@
-# Droptica’s Drupal Recipes: Security Email Notifications - Email Changed
+# Droptica’s Drupal Recipes: Security 
 
 ## Recipe description
 
