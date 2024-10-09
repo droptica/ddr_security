@@ -4,3 +4,4 @@ type: 'Site'
 recipes:
   - ddr_security_password_policy
   - ddr_security_email_notifications_email_changed
+  - ddr_security_email_notifications_password_changed

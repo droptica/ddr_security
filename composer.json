@@ -6,7 +6,8 @@
   "license": "GPL-2.0-or-later",
   "require": {
     "droptica/ddr_security_password_policy": "^1",
-    "droptica/ddr_security_email_notifications_email_changed": "^1"
+    "droptica/ddr_security_email_notifications_email_changed": "^1",
+    "droptica/ddr_security_email_notifications_password_changed": "^1"
   },
   "authors": [
     {
