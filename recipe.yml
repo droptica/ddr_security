@@ -8,3 +8,4 @@ recipes:
   - ddr_security_email_notifications_role_changed
   - ddr_security_automated_logout
   - ddr_security_session_limit
+  - ddr_security_login
