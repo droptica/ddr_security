@@ -11,7 +11,8 @@
     "droptica/ddr_security_email_notifications_role_changed": "^1",
     "droptica/ddr_security_automated_logout": "^1",
     "droptica/ddr_security_session_limit": "^1",
-    "droptica/ddr_security_login": "^1"
+    "droptica/ddr_security_login": "^1",
+    "droptica/ddr_security_seckit": "^1"
   },
   "authors": [
     {
