@@ -10,3 +10,4 @@ recipes:
   - ddr_security_session_limit
   - ddr_security_login
   - ddr_security_seckit
+  - ddr_security_captcha
