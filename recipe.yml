@@ -1,6 +1,6 @@
-name: 'Saplings'
-description: 'Modern Drupal starter recipe.'
-type: 'Site'
+name: 'DDR Security: Base security recipe'
+description: 'Base recipe that contains all security recipes.'
+type: 'Droptica’s Drupal Recipes'
 recipes:
   - ddr_security_password_policy
   - ddr_security_email_notifications_email_changed
